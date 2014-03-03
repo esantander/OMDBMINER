@@ -24,6 +24,7 @@ where param1 is a full file path of a list of IMDBids, placed on per line on a t
 ###Mine and Parse Mode
 
 java main param1 param2 param3
+
 where param1 is a full file path of a list of IMDBids
 and param2 is a full file path of a directory to be used to dump JSON files
 and param3 is a full file path where a csv will be generated

@@ -1,5 +1,19 @@
 import java.math.BigInteger;
 
+
+/**
+ * The movie object creates a convenient
+ * container for all the data that is parsed
+ * by MoviePopulatorAgent.
+ * 
+ * Having an object such as this one may enable
+ * allows flexibility to manipulate the movies
+ * as objects, although creating a movie object
+ * was probably not entirely warranted for this 
+ * project. 
+ * @author Emeril
+ *
+ */
 public class Movie {
 
 	public String ID;
